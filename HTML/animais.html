@@ -1,13 +1,37 @@
 <html>
 	<head>
 		<style>
-		table, td, th {border: 2px solid; border-collapse: collapse; padding: 10px; width: 200px; background-color: Ivory;}
-		th {background-color: LightSeaGreen; font-family: Verdana;}
+		main {width: 35.4%; background-color: FloralWhite;}
+		header {font-family: Verdana; text-align: center; background-color: DarkSeaGreen; color: Ivory; border-radius: 0px 0px 90%;}
+		nav {text-align: left; font-size: 20px; font-weight: bold; position: relative; top: -15px;}
+		nav a {color: DarkGreen;}
+		section {width: 100%; background-color: WhiteSmoke; border-style: solid; border-width: 1px; border-color: WhiteSmoke;}
+		footer {font-family: Verdana; font-size: 18px; color: PapayaWhip; padding: 10px; background-color: Sienna;}
+		table, td, th {border: 2px solid; border-collapse: collapse; padding: 10px; width: 200px; background-color: Ivory; margin-bottom: 20px;}
+		th {font-family: Verdana;}
+		.mammal th {background-color: CadetBlue;}
+		.bird th {background-color: LightSeaGreen;}
+		.reptile th {background-color: BurlyWood;}
 		img {height: 200px; width: 200px;}
+		h2 {text-align: center;}
 		</style>
 	</head>
 	<body>
-		<table>
+	<main>
+	<header>
+	<h1>Animais Daora</h1>
+	<nav>
+		<ul>
+		<li><a href="#mam">Mamíferos</a></li>
+		<li><a href="#ave">Aves</a></li>
+		<li><a href="#rep">Répteis</a></li>
+		</ul>
+	</nav>
+	</header>
+	
+	<section class="mamiferos">
+	<h2 id="mam">Mamíferos</h2>
+		<table class="mammal">
 			<tr>
 				<th>
 				Texugo
@@ -42,5 +66,91 @@
 				</td>
 			</tr>
 		</table>
+		</section>
+		
+		<section class="aves">
+		<h2 id="ave">Aves</h2>
+		<table class="bird">
+			<tr>
+				<th>
+				Jandaia
+				</th>
+				<th>
+				Periquito
+				</th>
+				<th>
+				Papagaio
+				</th>
+			</tr>
+			<tr>
+				<td>
+				<img src="img/jandaia.jpg"></img>
+				</td>
+				<td>
+				<img src="img/periquito.png"></img>
+				</td>
+				<td>
+				<img src="img/papagaio.jpg"></img>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				A jandaia é uma ave verde da família Psittacidae.
+				</td>
+				<td>
+				O periquito é uma ave verde da família Psittacidae.
+				</td>
+				<td>
+				O papagaio é uma ave verde da família Psittacidae.
+				</td>
+			</tr>
+		</table>
+		</section>
+		
+		<section class="repteis">
+		<h2 id="rep">Répteis</h2>
+		<table class="reptile">
+			<tr>
+				<th>
+				Lagartixa
+				</th>
+				<th>
+				Dragão-Barbudo
+				</th>
+				<th>
+				Dragão de Komodo
+				</th>
+			</tr>
+			<tr>
+				<td>
+				<img src="img/lagartixa.jpg"></img>
+				</td>
+				<td>
+				<img src="img/barbudo.jpg"></img>
+				</td>
+				<td>
+				<img src="img/komodo.jpg"></img>
+				</td>
+			</tr>
+			<tr>
+				<td>
+				A lagartixa é um bicho amigável da família Gekkonidae.
+				</td>
+				<td>
+				O dragão-barbudo é um bicho estiloso da família Agamidae.
+				</td>
+				<td>
+				O dragão de Komodo é um bicho brabo da família Varanidae.
+				</td>
+			</tr>
+		</table>
+		</section>
+		<footer>
+		Roda nenhum tem. Pé alguns têm dois, alguns têm quatro.
+		</footer>
+		<address>
+		Contato: evite
+		</address>
+	</main>
 	</body>
 </html>
