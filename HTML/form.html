@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Primeiro Formulário HTML</title>
+		<style>
+		html {min-height:100%; position:relative;}
+		body {background-color: #08172E;}
+		aside {float: left; width: 16%; color: #E8E4E0; background-color: #15253F; padding: 10px; position: absolute; top:0; bottom:0; left:0; right:0;}
+		.aside {text-align: center;}
+		main {width: 60%; height: 100%; margin: auto; padding: 10px 50px;}
+		header {font-family: "Segoe UI"; font-size: 30px; color: #EEE5D9; text-align: center;}
+		nav {background-color: #2B3D5B; padding: 10px 100px; font-family: sans-serif; font-weight: bold; color: #e5e5e5; margin: 0px -50px;}
+		nav a {color: #E8E4E0; text-decoration: none;}
+		a:hover {text-decoration: underline;}
+		section {background-color: #efece5; margin: 0 -50px; padding: 20px 100px; padding-bottom: 40px;}
+		img {width: 80%;}
+		footer {color: #E8E4E0; background-color: #050e1b; margin: -20px -50px; padding: 10px;}
+		.services {margin: 10px -50px; }
+		.ct {margin-bottom: -15px;}
+		
+		</style>
+    </head>
+    <body>
+	
+		<aside>
+			<h2 class="aside">Lateral</h2>
+			<p>Algumas informações adicionais podem ser exibidas aqui.</p>
+		</aside>
+		
+		<main>
+			<header>
+			<h1>Bem-Vindo À Minha Página Web!</h1>
+			</header>
+			
+			<nav>
+			<a href="#about">Sobre</a> | <a href="#services">Serviços</a> | <a href="#contact">Contato</a>
+			</nav>
+		
+			<div class="contents">
+				<article>
+					<section class="about">
+					<h2 id="about">Esta é uma página de exemplo criada para demonstrar o uso das principais tags HTML.</h2>
+					<img src="img/html.png" alt="HTML">
+					</section>
+		
+					<section class="services">
+						<h2 id="services">Serviços</h2>
+						<ul>
+							<li>Web Design</li>
+							<li>Desenvolvimento Web</li>
+							<li>Hospedagem</li>
+						</ul>
+					</section>
+			
+					<section class="contact">
+						<h2 class="ct" id="contact">Contato</h2>
+						<p>Entre em contato conosco.</p>
+						<form action="/contato" method="post">
+							<label for="name">Nome:</label><br>
+								<input type="text" id="name" name="name" placeholder="Nome" required><br><br>
+							<label for="email">E-Mail:</label><br>
+								<input type="email" id="email" name="email" placeholder="E-Mail" required><br><br>
+							<label for="text">Mensagem:</label><br>
+								<textarea id="text" name="text" rows="4" cols="50" placeholder="..."></textarea><br><br>
+							<input type="submit" value="Enviar">
+					</section>
+				</article>
+			</div>
+		
+			<footer>
+				<p>&copy; 2024 Estúdio Esmeraldo. Todos os direitos reservados.</p>
+				<address> Guará II, QE 25 - Guará, Distrito Federal<br>
+				(61) 3686-2425<br>
+				gab@guara.df.gov.br</address>
+			</footer>
+		</main>
+    </body>
+</html>
