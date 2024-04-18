@@ -128,7 +128,7 @@ img {width: 100%}
 	position: relative;
 	cursor: pointer;
 	text-align: left;
-	left: 40px;
+	left: 195px;
 }
 
 .small {font-size: 12px; margin-top: -10px;}
@@ -297,6 +297,10 @@ margin-left: -10px;
 	padding: 15px 22px;
 	font-size: 10px;
 	margin-bottom: 10px;
+}
+
+.agree {
+	left: 0px;
 }
 
 footer {
