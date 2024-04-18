@@ -2,11 +2,12 @@
 <html lang="pt-BR">
     <head>
         <meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Atividade de Desenvolvimento Web</title>
 		<link rel="stylesheet" href="estilo.css">
     </head>
     <body>
-		<div class="box">
+		<div id="box" class="box">
 			<aside>
 				<nav>
 					<ul>
@@ -23,11 +24,11 @@
 				<h1 id="top">CAMELÔ DIGITAL</h1>
 				</header>
 			
-				<div>
+				<div id="article">
 					<article>
 						<section>
 						<h2 id="roupa">ROUPAS</h2>
-							<div class="gallery">
+							<div id="shirt" class="gallery">
 								<div class="item">
 									<img src=img/shirts/01.webp alt="Camiseta">
 									<h3 class="gtitle">Camiseta</h3>
@@ -119,7 +120,7 @@
 			
 						<section>
 							<h2 id="poster">PÔSTERES</h2>
-							<div class="gallery">
+							<div id="poster" class="gallery">
 								<div class="item">
 									<img src=img/posters/01.webp alt="Pôster">
 									<h3 class="gtitle">Pôster</h3>
@@ -211,7 +212,7 @@
 				
 						<section class="contact">
 							<h4 id="ajuda">PRECISA DE AJUDA?</h4>
-							<div class="form">
+							<div id="form" class="form">
 							<p>Envie um pedido para o suporte e responderemos dentro de 48 horas.</p>
 							<form action="/ticket" method="post">
 								<p class="form-txt"><label for="nome">Seu nome <span class="red">*</span></label></p>

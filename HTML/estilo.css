@@ -243,11 +243,6 @@ textarea  {
  header {
 	font-size: 16px;
 	text-align: center;
-	margin-left: -75px;
-}
-
-h2 {
-	margin-left: -75px;
 }
 
 aside {
@@ -256,11 +251,10 @@ aside {
 
 main {
 	flex: 100%;
-	margin-right: -80px;
 }
 
 .gallery {
-    max-width: 80%;
+    max-width: 100%;
 }
 
 .item {
@@ -288,7 +282,8 @@ margin-left: -10px;
 }
 
 .contact {
-	margin-left: -40px;
+	margin: 0;
+	width: 100vw;
 }
 
 .button {
@@ -303,6 +298,7 @@ margin-left: -10px;
 
 footer {
 	font-size: 10px;
+	width: 100vw;
 }
 
 }
