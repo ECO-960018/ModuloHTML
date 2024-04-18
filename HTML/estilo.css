@@ -71,8 +71,6 @@ section {
 	border-top: 10px dashed #b9f400;
 }
 		
-.store {}
-		
 .gallery {
     display: flex;
 	flex-flow: row wrap;
