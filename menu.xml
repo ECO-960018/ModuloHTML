@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nutricampus>
+  <menu>
+    <dia>Segunda-Feira</dia>
+    <cafe>Café da Manhã Segunda</cafe>
+    <almoco>Almoço Segunda</almoco>
+	<lanche>Lanche Segunda</lanche>
+    <jantar>Jantar Segunda</jantar>
+  </menu>
+  <menu>
+    <dia>Terça-Feira</dia>
+    <cafe>Café da Manhã Terça</cafe>
+    <almoco>Almoço Terça</almoco>
+	<lanche>Lanche Terça</lanche>
+    <jantar>Jantar Terça</jantar>
+  </menu>
+  <menu>
+    <dia>Quarta-Feira</dia>
+    <cafe>Café da Manhã Quarta</cafe>
+    <almoco>Almoço Quarta</almoco>
+	<lanche>Lanche Quarta</lanche>
+    <jantar>Jantar Quarta</jantar>
+  </menu>
+  <menu>
+    <dia>Quinta-Feira</dia>
+    <cafe>Café da Manhã Quinta</cafe>
+    <almoco>Almoço Quinta</almoco>
+	<lanche>Lanche Quinta</lanche>
+    <jantar>Jantar Quinta</jantar>
+  </menu>
+  <menu>
+    <dia>Sexta-Feira</dia>
+    <cafe>Café da Manhã Sexta</cafe>
+    <almoco>Almoço Sexta</almoco>
+	<lanche>Lanche Sexta</lanche>
+    <jantar>Jantar Sexta</jantar>
+  </menu>
+</nutricampus>
