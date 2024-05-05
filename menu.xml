@@ -1,38 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<nutricampus>
-  <menu>
-	<dia>2024-05-01</dia>
-	<cafe>Café da Manhã 2024-05-01</cafe>
-	<almoco>Almoço 2024-05-01</almoco>
-	<lanche>Lanche 2024-05-01</lanche>
-	<jantar>Jantar 2024-05-01</jantar>
-  </menu>
-  <menu>
-	<dia>2024-05-02</dia>
-	<cafe>Café da Manhã 2024-05-02</cafe>
-	<almoco>Almoço 2024-05-02</almoco>
-	<lanche>Lanche 2024-05-02</lanche>
-	<jantar>Jantar 2024-05-02</jantar>
-  </menu>
-  <menu>
-	<dia>2024-05-03</dia>
-	<cafe>Café da Manhã 2024-05-03</cafe>
-	<almoco>Almoço 2024-05-03</almoco>
-	<lanche>Lanche 2024-05-03</lanche>
-	<jantar>Jantar 2024-05-03</jantar>
-  </menu>
-  <menu>
-	<dia>2024-05-04</dia>
-	<cafe>Café da Manhã 2024-05-04</cafe>
-	<almoco>Almoço 2024-05-04</almoco>
-	<lanche>Lanche 2024-05-04</lanche>
-	<jantar>Jantar 2024-05-04</jantar>
-  </menu>
-  <menu>
-	<dia>2024-05-05</dia>
-	<cafe>Café da Manhã 2024-05-05</cafe>
-	<almoco>Almoço 2024-05-05</almoco>
-	<lanche>Lanche 2024-05-05</lanche>
-	<jantar>Jantar 2024-05-05</jantar>
-  </menu>
-</nutricampus>
+<maio>
+	<menu>
+		<dia>2024-05-01</dia>
+		<cafe>Café da Manhã 2024-05-01</cafe>
+		<almoco>Almoço 2024-05-01</almoco>
+		<lanche>Lanche 2024-05-01</lanche>
+		<jantar>Jantar 2024-05-01</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-02</dia>
+		<cafe>Café da Manhã 2024-05-02</cafe>
+		<almoco>Almoço 2024-05-02</almoco>
+		<lanche>Lanche 2024-05-02</lanche>
+		<jantar>Jantar 2024-05-02</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-03</dia>
+		<cafe>Café da Manhã 2024-05-03</cafe>
+		<almoco>Almoço 2024-05-03</almoco>
+		<lanche>Lanche 2024-05-03</lanche>
+		<jantar>Jantar 2024-05-03</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-04</dia>
+		<cafe>Café da Manhã 2024-05-04</cafe>
+		<almoco>Almoço 2024-05-04</almoco>
+		<lanche>Lanche 2024-05-04</lanche>
+		<jantar>Jantar 2024-05-04</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-05</dia>
+		<cafe>Café da Manhã 2024-05-05</cafe>
+		<almoco>Almoço 2024-05-05</almoco>
+		<lanche>Lanche 2024-05-05</lanche>
+		<jantar>Jantar 2024-05-05</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-06</dia>
+		<cafe>Café da Manhã 2024-05-06</cafe>
+		<almoco>Almoço 2024-05-06</almoco>
+		<lanche>Lanche 2024-05-06</lanche>
+		<jantar>Jantar 2024-05-06</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-07</dia>
+		<cafe>Café da Manhã 2024-05-07</cafe>
+		<almoco>Almoço 2024-05-07</almoco>
+		<lanche>Lanche 2024-05-07</lanche>
+		<jantar>Jantar 2024-05-07</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-08</dia>
+		<cafe>Café da Manhã 2024-05-08</cafe>
+		<almoco>Almoço 2024-05-08</almoco>
+		<lanche>Lanche 2024-05-08</lanche>
+		<jantar>Jantar 2024-05-08</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-09</dia>
+		<cafe>Café da Manhã 2024-05-09</cafe>
+		<almoco>Almoço 2024-05-09</almoco>
+		<lanche>Lanche 2024-05-09</lanche>
+		<jantar>Jantar 2024-05-09</jantar>
+	</menu>
+	<menu>
+		<dia>2024-05-10</dia>
+		<cafe>Café da Manhã 2024-05-10</cafe>
+		<almoco>Almoço 2024-05-10</almoco>
+		<lanche>Lanche 2024-05-10</lanche>
+		<jantar>Jantar 2024-05-10</jantar>
+	</menu>
+</maio>
