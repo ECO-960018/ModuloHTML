@@ -8,31 +8,31 @@
 	<jantar>Jantar 2024-05-01</jantar>
   </menu>
   <menu>
-    <dia>Terça-Feira</dia>
-    <cafe>Café da Manhã Terça</cafe>
-    <almoco>Almoço Terça</almoco>
-	<lanche>Lanche Terça</lanche>
-    <jantar>Jantar Terça</jantar>
+	<dia>2024-05-02</dia>
+	<cafe>Café da Manhã 2024-05-02</cafe>
+	<almoco>Almoço 2024-05-02</almoco>
+	<lanche>Lanche 2024-05-02</lanche>
+	<jantar>Jantar 2024-05-02</jantar>
   </menu>
   <menu>
-    <dia>Quarta-Feira</dia>
-    <cafe>Café da Manhã Quarta</cafe>
-    <almoco>Almoço Quarta</almoco>
-	<lanche>Lanche Quarta</lanche>
-    <jantar>Jantar Quarta</jantar>
+	<dia>2024-05-03</dia>
+	<cafe>Café da Manhã 2024-05-03</cafe>
+	<almoco>Almoço 2024-05-03</almoco>
+	<lanche>Lanche 2024-05-03</lanche>
+	<jantar>Jantar 2024-05-03</jantar>
   </menu>
   <menu>
-    <dia>Quinta-Feira</dia>
-    <cafe>Café da Manhã Quinta</cafe>
-    <almoco>Almoço Quinta</almoco>
-	<lanche>Lanche Quinta</lanche>
-    <jantar>Jantar Quinta</jantar>
+	<dia>2024-05-04</dia>
+	<cafe>Café da Manhã 2024-05-04</cafe>
+	<almoco>Almoço 2024-05-04</almoco>
+	<lanche>Lanche 2024-05-04</lanche>
+	<jantar>Jantar 2024-05-04</jantar>
   </menu>
   <menu>
-    <dia>Sexta-Feira</dia>
-    <cafe>Café da Manhã Sexta</cafe>
-    <almoco>Almoço Sexta</almoco>
-	<lanche>Lanche Sexta</lanche>
-    <jantar>Jantar Sexta</jantar>
+	<dia>2024-05-05</dia>
+	<cafe>Café da Manhã 2024-05-05</cafe>
+	<almoco>Almoço 2024-05-05</almoco>
+	<lanche>Lanche 2024-05-05</lanche>
+	<jantar>Jantar 2024-05-05</jantar>
   </menu>
 </nutricampus>
