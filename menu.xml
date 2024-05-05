@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <nutricampus>
   <menu>
-    <dia>Segunda-Feira</dia>
-    <cafe>Café da Manhã Segunda</cafe>
-    <almoco>Almoço Segunda</almoco>
-	<lanche>Lanche Segunda</lanche>
-    <jantar>Jantar Segunda</jantar>
+	<dia>2024-05-01</dia>
+	<cafe>Café da Manhã 2024-05-01</cafe>
+	<almoco>Almoço 2024-05-01</almoco>
+	<lanche>Lanche 2024-05-01</lanche>
+	<jantar>Jantar 2024-05-01</jantar>
   </menu>
   <menu>
     <dia>Terça-Feira</dia>
