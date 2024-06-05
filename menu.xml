@@ -3,9 +3,9 @@
 	<menu>
 		<dia>2024-05-01</dia>
 		<cafe>
-			<cafe0>Cuscuz</cafe0>
-    			<cafe1>Ovos Mexidos</cafe1>
-    			<cafe2>Café</cafe2>
+			<list>Cuscuz</list>
+    			<list>Ovos Mexidos</list>
+    			<list>Café</list>
 		</cafe>
 		<almoco>
 			Galinhada
