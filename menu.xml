@@ -2,11 +2,24 @@
 <maio>
 	<menu>
 		<dia>2024-05-01</dia>
-		<cafe>Café da Manhã 2024-05-01
-		Suco</cafe>
-		<almoco>Almoço 2024-05-01</almoco>
-		<lanche>Lanche 2024-05-01</lanche>
-		<jantar>Jantar 2024-05-01</jantar>
+		<cafe>
+    			Cuscuz
+    			Ovos Mexidos
+    			Café
+		</cafe>
+		<almoco>
+			Galinhada
+			Suco de manga
+		</almoco>
+		<lanche>
+			Cuscuz
+    			Ovos Mexidos
+    			Café
+		</lanche>
+		<jantar>
+			Canja de Galinha
+			Chá de Hortelã
+		</jantar>
 	</menu>
 	<menu>
 		<dia>2024-05-02</dia>
